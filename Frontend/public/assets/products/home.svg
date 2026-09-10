@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Home collection illustration</title>
+  <desc id="desc">A sculptural ceramic vase and leafy branch on a warm green studio background.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dcefe6"/><stop offset="1" stop-color="#c4deda"/></linearGradient><linearGradient id="ceramic" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fffdf7"/><stop offset="1" stop-color="#bba994"/></linearGradient><linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0f766e"/><stop offset="1" stop-color="#164e63"/></linearGradient></defs>
+  <rect width="800" height="600" rx="28" fill="url(#bg)"/><circle cx="656" cy="120" r="116" fill="#fff" opacity=".3"/><path d="M132 474h536" stroke="#fff" stroke-width="4" opacity=".7"/>
+  <path d="M420 188c-8 58-8 76 20 110 32 38 39 84 38 126-1 50-42 81-103 81s-102-31-103-81c-1-42 6-88 38-126 28-34 28-52 20-110z" fill="url(#ceramic)"/><ellipse cx="377" cy="188" rx="42" ry="13" fill="#c8b9a5"/>
+  <path d="M377 186C364 133 341 99 305 67M378 188c18-58 46-87 92-112M370 151c-38-19-65-19-94-2M393 141c39-28 67-30 97-17" fill="none" stroke="#285f57" stroke-linecap="round" stroke-width="8"/>
+  <path d="M303 68c-30-24-58-22-75-5 20 26 46 37 75 5ZM468 76c23-28 53-37 78-22-11 31-38 45-78 22ZM278 148c-34-18-62-10-77 12 26 20 52 18 77-12ZM492 123c31-23 61-19 79 2-22 25-49 29-79-2ZM343 105c-29-22-55-20-72-4 18 26 43 33 72 4Z" fill="url(#leaf)"/>
+  <text x="54" y="82" fill="#164e63" font-family="Georgia, serif" font-size="28" font-weight="700">HOME / 01</text><text x="55" y="116" fill="#526873" font-family="Arial, sans-serif" font-size="14" letter-spacing="2">CALM OBJECTS FOR DAILY LIVING</text>
+</svg>
