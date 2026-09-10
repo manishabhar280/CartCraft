@@ -240,6 +240,28 @@ Screenshots can be added here as the project evolves:
 - `docs/screenshots/orders.png`
 - `docs/screenshots/admin-dashboard.png`
 
+### Application Preview
+
+#### Home Page
+
+![CartCraft home page](ScreenShots/Home%20page.img.png)
+
+#### Products Page
+
+![CartCraft products page](ScreenShots/Products%20page.image.png)
+
+#### Cart Page
+
+![CartCraft cart page](ScreenShots/Cart%20page.image.png)
+
+#### Orders Page
+
+![CartCraft orders page](ScreenShots/Order%20page.image.png)
+
+#### Wishlist Page
+
+![CartCraft wishlist page](ScreenShots/Wishlist%20page.image.png)
+
 ## Future Improvements
 
 - Add automated backend and frontend test coverage.
